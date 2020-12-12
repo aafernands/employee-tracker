@@ -1,6 +1,7 @@
 const { prompt } = require("inquirer");
 const logo = require("asciiart-logo");
 const db = require("./db");
+const { clearLine } = require("inquirer/lib/utils/readline");
 require("console.table");
 
 init();
