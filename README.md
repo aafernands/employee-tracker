@@ -21,6 +21,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 ## Usage
 
 Instructions and examples for use:
+
 ![demo](./public/assets/images/demo.gif)
 
 ## Tests
